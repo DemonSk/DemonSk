@@ -1,16 +1,30 @@
-## Hi there 👋
+# Serhii Ihnatiuk (DemonSk)
 
-<!--
-**DemonSk/DemonSk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Security Engineer with 4+ years in secure protocol design and audit leadership.  
+I bridge secure development with offensive security research, focusing on real-world exploitability and risk reduction.
 
-Here are some ideas to get you started:
+## 🔐 Security Focus
+- Application Security & Secure SDLC  
+- Threat Modeling & Attack Surface Analysis  
+- Vulnerability Assessment & Remediation  
+- Security Reporting & Risk Communication  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech & Tools
+- Languages: TypeScript, Python, Solidity, Cairo  
+- Security: Slither, Aderyn, Echidna, Foundry, Hardhat  
+- Platforms: Linux, Docker, GitHub Actions
+
+## 🚧 Currently
+- Building blockchain applications in production  
+- Expanding into traditional security engineering (AppSec, web security, secure SDLC)
+
+## 📌 Featured Projects
+- [Security tool/demo](#)
+- [Vulnerability write‑ups](#)
+- [Secure coding template](#)
+
+## 📫 Contact
+- Email: ihnatiuksv@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/demonsk/  
+- GitHub: https://github.com/DemonSk
+- 
