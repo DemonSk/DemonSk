@@ -19,12 +19,11 @@ I bridge secure development with offensive security research, focusing on real-w
 - Expanding into traditional security engineering (AppSec, web security, secure SDLC)
 
 ## 📌 Featured Projects
-- [Security tool/demo](#)
-- [Vulnerability write‑ups](#)
-- [Secure coding template](#)
+- [Security tool/demo](#) (TODO)
+- [Vulnerability write‑ups](#) (TODO)
+- [Secure coding template](#) (TODO)
 
 ## 📫 Contact
 - Email: ihnatiuksv@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/demonsk/  
 - GitHub: https://github.com/DemonSk
-- 
