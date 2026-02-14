@@ -12,7 +12,10 @@ I bridge secure development with offensive security research, focused on real‑
 ## 🧰 Tech & Tools
 - Languages: TypeScript, Python, Solidity, Cairo  
 - Security: Slither, Aderyn, Echidna, Foundry, Hardhat  
-- Platforms: Linux, Docker, GitHub Actions  
+- Platforms: Linux, Docker, GitHub Actions
+
+## On-chain presence
+Dev address: [0x09676Ee4685B618d0DCc85E221019c9Ce3810211](https://sepolia.etherscan.io/address/0x09676Ee4685B618d0DCc85E221019c9Ce3810211)
 
 ## 🚧 Currently
 - Building blockchain applications in production  
